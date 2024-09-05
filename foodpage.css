@@ -1,0 +1,132 @@
+.nav-logo{
+    width:80px;
+    height:80px;
+}
+.bg-container{
+    background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+    background-size:cover;
+}
+.gethealthyfood-title{
+    color:white;
+    font-family: "Roboto";
+    padding-top: 450px;
+    font-weight: 900;
+}
+.eatsmart-title{
+    color:white;
+    font-family: "Roboto";
+}
+.custom-button{
+    background-color:orange;
+    border-color: white;
+    color:white;
+    font-size:20px;
+    border-radius:15px;
+    padding:15px;
+    margin-right: 10px;
+}
+.button{
+    color:orange;
+    border-color: orange;
+    margin-left: 10px;
+}
+.WhyChooseUs{
+    color:darkslateblue;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:900;
+    padding-top:25px;
+}
+.food-service-logo{
+    width: 87px;
+    height: 90px;
+    margin:30px;
+}
+.card1-tagline{
+    color:#5a7184;
+    font-size: 15px;
+}
+.exploremenu{
+    color:darkslateblue;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:900;
+    padding-top:25px;
+}
+.link{
+    color:rgb(255, 102, 0);
+}
+.EM-logo{
+    border-radius:15px;
+}
+.healthy-food-section-heading{
+    color:darkslateblue;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:900;
+    padding-top:25px;
+}
+.healthy-food-section-description{
+    color:#5a7184;
+    font-size: 20px;
+}
+.DP-title{
+    color:darkslateblue;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:900;
+    padding-top:25px;
+}
+.DP-para{
+    color:#5a7184;
+    font-size: 20px;
+
+}
+.payment-card-img{
+    width: 100px;
+    height:auto;
+    padding:10px;
+
+}
+.bg-container-thankyou{
+    background-image: radial-gradient(#82CAFF,#fff8db);
+}
+.thankyou-title{
+    color:darkslateblue;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:900;
+    padding-top:25px;
+}
+.thankyou-para{
+    color:#5a7184;
+    font-size: 20px;
+}
+.gift-logo{
+    width:270px;
+}
+.followus-title{
+    color:darkslateblue;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:900;
+    padding-top:25px;
+
+}
+.social-media-logo{
+    background-color: beige;
+    border-radius:50px;
+    width:50px;
+    height:50px;
+    padding-top:15px;
+    padding-left:12px;
+    margin:20px;
+}
+.address-bg-container{
+    background-color:darkslateblue;
+    color:#5a7184;
+}
+.footer-logo{
+    width:90px;
+    height:70px;
+}
